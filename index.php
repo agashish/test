@@ -27,8 +27,7 @@
   
 	function test()
 	{
-			print"Hello Ji New Git Branch.";
-			$str = "xxxxxxxxxxxxxxxxxxxxx.";
+			print"Hello Ji New Git Branch.";			
 	return $str;			
 	}
   
