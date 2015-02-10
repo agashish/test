@@ -25,6 +25,12 @@
     
     echo add_values(1,2,3);
   
+	function test()
+	{
+			print"Hello Ji New Git Branch.";
+	}
+  
+  
 ?>
 
  <?php
