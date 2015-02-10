@@ -28,6 +28,8 @@
 	function test()
 	{
 			print"Hello Ji New Git Branch.";
+			$str = "Hello Ji New Git Branch.";
+	return $str;			
 	}
   
   
